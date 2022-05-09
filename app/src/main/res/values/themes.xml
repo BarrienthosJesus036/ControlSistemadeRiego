@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ControlSistemaDeRiego" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="titulos">
+        <!-- Estilos titulos -->
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">0sp</item>
+    </style>
+
+    <style name="subtitulos">
+        <!-- Estilos subtitulos -->
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FF2C2C2C</item>
+    </style>
+
+    <style name="dialogos" parent="subtitulos">
+        <!-- Estilos dialogos o texto normal -->
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="button" parent="dialogos">
+        <item name="android:padding">10sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/draw_btn_orange</item>
+        <item name="android:foreground">?selectableItemBackground</item>
+    </style>
+
+    <style name="button.style">
+        <item name="android:radius">25sp</item>
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:background">@drawable/draw_btn_deg_send</item>
+        <item name="android:layout_marginTop">15sp</item>
+        <item name="android:layout_marginBottom">15sp</item>
+        <item name="android:layout_marginLeft">8sp</item>
+        <item name="android:layout_marginRight">8sp</item>
+    </style>
+
+    <style name="button.style.msj">
+        <item name="android:background">@drawable/draw_msj_style</item>
+    </style>
+</resources>

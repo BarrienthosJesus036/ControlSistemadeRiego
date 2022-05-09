@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Control Sistema de Riego</string>
+
+    <!-- Datos para el login -->
+    <string name="login_title">SIGN IN</string>
+    <string name="login_subtitle">Bienvenido al Control de Sistema de Riego</string>
+    <string name="login_email">Correo:</string>
+    <string name="login_pass">Contraseña:</string>
+    <string name="login_access">Acceder</string>
+
+    <!-- Datos para envio de datos -->
+    <string name="dash_on">Encender regado</string>
+    <string name="dash_off">Apagar regado</string>
+    <string name="dash_state">Estado</string>
+    <string name="dash_report">Estadisticas</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/drawable/draw_btn_deg_send.xml" value="0.183" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/drawable/draw_btn_orange.xml" value="0.183" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/drawable/draw_msj_style.xml" value="0.183" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/drawable/ic_baseline_flash_on_24.xml" value="0.183" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/drawable/splash_background.xml" value="0.183" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Barri/AndroidStudioProjects/ControlSistemadeRiego/app/src/main/res/layout/item_list.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
